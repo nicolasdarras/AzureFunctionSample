@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBusAndKeyVaultFunction", "ServiceBusAndKeyVaultFunction\ServiceBusAndKeyVaultFunction.csproj", "{95F035FF-86E4-4372-91EF-7D036BDAA808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95F035FF-86E4-4372-91EF-7D036BDAA808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F035FF-86E4-4372-91EF-7D036BDAA808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F035FF-86E4-4372-91EF-7D036BDAA808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F035FF-86E4-4372-91EF-7D036BDAA808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CE5E93B-2161-4A2F-A9BA-ABE3706AEDD1}
+	EndGlobalSection
+EndGlobal
